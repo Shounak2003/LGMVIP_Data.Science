@@ -2,6 +2,6 @@
 
 ## LGMVIP Data Science Internship
 
-### Author - Papathoti Solomon Leo
+### Author - Shounak
 
 Dataset Link - [Click here](https://www.kaggle.com/msambare/fer2013)
